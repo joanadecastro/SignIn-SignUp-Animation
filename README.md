@@ -1,19 +1,15 @@
 ﻿ ![Status do Projeto](https://img.shields.io/badge/status-concluido%20-midigreen)
 
 
-# Personal Portfolio
+# SignIn SignUp Animation
 
-Welcome to the repository of my personal portfolio site! This project was created to showcase my work, skills and professional career. The platform was developed using HTML, CSS and JavaScript, and has a responsive design that allows for a good browsing experience on mobile and desktop devices.
-
-Check the link:  https://joanacastrostudio.com/
+This project was developed as part of the final project of Flag's Frontend Developer course, in which I obtained a grade of 16. A responsive login interface that goes up to a main menu page with 4 buttons. Throughout the interface, which was designed and thought up by me, I tried to make the most of css and js animations and play around with it, since it was just an academic experiment. All the icons were designed by me in adobe illustrator and so it results in a unique and exclusive interface full of creativity that identifies me so much.
 
 
 ## 📄 Description 
-This portfolio site displays a collection of my projects and experiences, including:
-- About me: A brief introduction to my background, interests and professional goals.
-- Projects: Gallery with the main projects I've developed, each with a description, technologies used and links to view or repository.
-- Skills: Section with my main technical skills and programming languages.
-- Contact: Contact form to make it easier to send messages.
+- Sign-in screen
+- Signup screen
+- Main menu with: Homepage, User, Search, Chat
 
 
 ## 🎬 Demonstration
