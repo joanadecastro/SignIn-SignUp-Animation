@@ -15,21 +15,18 @@ This project was developed as part of the final project of Flag's Frontend Devel
 ## 🎬 Demonstration
 
 <p align="center">
-  <img src="https://github.com/joanadecastro/Personal-Portfolio/blob/main/assets/imgs/cap1.png" alt="Imagem 1" >
+  <img src="https://github.com/joanadecastro/SignIn-SignUp-Animation/blob/main/img/firstProject_myclo.png" alt="Imagem 1" >
 </p>
 
 <p align="center">
-    <img src="https://github.com/joanadecastro/Personal-Portfolio/blob/main/assets/imgs/cap6.png" alt="Imagem 2" width="45%">
-  <img src="https://github.com/joanadecastro/Personal-Portfolio/blob/main/assets/imgs/cap2.png" alt="Imagem 1" width="45%">
+    <img src="https://github.com/joanadecastro/SignIn-SignUp-Animation/blob/main/img/firstProject_myclo_2.png" alt="Imagem 2" width="45%">
+  <img src="https://github.com/joanadecastro/SignIn-SignUp-Animation/blob/main/img/firstProject_myclo_5.png" alt="Imagem 1" width="45%">
 </p>
 
-<p align="center">
-    <img src="https://github.com/joanadecastro/Personal-Portfolio/blob/main/assets/imgs/cap3.png" alt="Imagem 2" width="45%">
-  <img src="https://github.com/joanadecastro/Personal-Portfolio/blob/main/assets/imgs/cap4.png" alt="Imagem 1" width="45%">
-</p>
+
 
 <p align="center">
-<img src="https://github.com/joanadecastro/Personal-Portfolio/blob/main/assets/imgs/cap5.png" alt="Imagem 2">
+<img src="https://github.com/joanadecastro/SignIn-SignUp-Animation/blob/main/img/firstProject_myclo_8.png" alt="Imagem 2">
 </p>
 
 
