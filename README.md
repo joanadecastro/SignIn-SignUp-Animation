@@ -38,7 +38,6 @@ This project was developed as part of the final project of Flag's Frontend Devel
 
 - Responsive Design: The layout adapts to different screen sizes, including mobile devices.
 - Smooth Animations: Simple visual effects for a more enjoyable experience.
-- JavaScript interactivity: Includes interactive navigation to improve usability.
 
 ## 🛠️ Technologies Used
 
